@@ -1,0 +1,6 @@
+.konan/
+.idea/
+build/
+*.iml
+*.log
+local.properties
