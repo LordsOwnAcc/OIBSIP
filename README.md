@@ -52,7 +52,7 @@ A utility app to convert between various units.
 
 ### Calculator App
 
-<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/5a01a232-8367-43d8-b471-746633a589bb" />
+<img width="134" height="299" alt="image" src="https://github.com/user-attachments/assets/5a01a232-8367-43d8-b471-746633a589bb" />
 
 
 ### Stopwatch App
